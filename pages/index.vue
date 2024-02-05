@@ -3,7 +3,7 @@
     <div>
       <div class="mb-4 text-6xl font-bold text-gray-800">
         <span> Connecting developers from </span>
-        <span class="text-brand">Kerala</span>
+        <span class="text-brand-700">Kerala</span>
       </div>
       <div class="mb-4 text-xl font-medium text-gray-700">
         We are a community of developers, designers, and tech enthusiasts from
