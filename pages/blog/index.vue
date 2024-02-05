@@ -11,10 +11,10 @@
           v-for="doc in list"
           :key="doc._path"
           :href="doc._path"
-          class="block space-y-2 py-4"
+          class="prose block space-y-2 py-4 dark:prose-invert"
         >
           <h4 class="font-medium">{{ doc.title }}</h4>
-          <p class="line-clamp-3 text-slate-800">{{ doc.description }}</p>
+          <p class="line-clamp-3">{{ doc.description }}</p>
           <div v-if="users[doc.author]" class="flex items-center gap-2 text-sm">
             <UAvatar
               size="xs"

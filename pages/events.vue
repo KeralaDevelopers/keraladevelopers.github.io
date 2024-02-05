@@ -62,7 +62,7 @@
               </template>
             </UButton>
           </a>
-          <div class="prose prose-slate">
+          <div class="prose prose-slate dark:prose-invert">
             <ContentRenderer :value="doc" />
           </div>
         </div>
