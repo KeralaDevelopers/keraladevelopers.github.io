@@ -2,7 +2,7 @@
   <header>
     <div class="flex items-center justify-between">
       <a href="/">
-        <div class="size-6">
+        <div class="size-5">
           <img src="/svg/logo.svg" alt="Kerala Developers" />
         </div>
       </a>
