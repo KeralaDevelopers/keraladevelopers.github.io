@@ -31,5 +31,8 @@
 </template>
 
 <script setup lang="ts">
-const links = [{ label: 'Blog', url: '/blog' }];
+const links = [
+  { label: 'Blog', url: '/blog' },
+  { label: 'Events', url: '/events' },
+];
 </script>

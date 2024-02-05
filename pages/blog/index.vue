@@ -2,10 +2,7 @@
   <main class="m-auto max-w-prose">
     <UBreadcrumb
       divider="/"
-      :links="[
-        { label: 'Home', to: '/' },
-        { label: 'Blog', to: '/blog' },
-      ]"
+      :links="[{ label: 'Home', to: '/' }, { label: 'Blog' }]"
       class="mb-4"
     />
     <ContentList v-slot="{ list }" path="/blog">
