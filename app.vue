@@ -7,7 +7,9 @@
 </template>
 
 <script setup lang="ts">
-useFavicon('/svg/logo.svg');
+useFavicon(() =>
+  usePreferredDark().value ? '/favicon/dark.svg' : '/favicon/light.svg',
+);
 useSeoMeta({
   title: 'Kerala Developers',
   description: 'Community of developers in Kerala',

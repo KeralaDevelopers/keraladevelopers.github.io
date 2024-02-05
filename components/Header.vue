@@ -2,9 +2,7 @@
   <header>
     <div class="flex items-center justify-between">
       <a href="/">
-        <div class="size-5">
-          <img src="/svg/logo.svg" alt="Kerala Developers" />
-        </div>
+        <Logo class="size-5" />
       </a>
       <div class="space-x-2">
         <span v-for="link in links" :key="link.url">
