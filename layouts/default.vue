@@ -1,7 +1,7 @@
 <template>
-  <div id="main" class="flex h-screen flex-col px-8 py-4">
-    <Header class="mb-4" />
-    <div class="grow overflow-auto">
+  <div id="main" class="flex h-screen flex-col">
+    <Header />
+    <div class="grow overflow-auto px-4 sm:px-8">
       <slot />
     </div>
   </div>

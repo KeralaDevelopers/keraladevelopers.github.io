@@ -1,5 +1,5 @@
 <template>
-  <header>
+  <header class="p-4 sm:px-8">
     <div class="flex items-center justify-between">
       <a href="/">
         <Logo class="size-5" />
