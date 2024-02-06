@@ -17,7 +17,6 @@
   font-family: 'Manjari';
   src: url('/fonts/Manjari/Regular.ttf');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
-  font-language-override: 'MAL';
 }
 
 @font-face {
@@ -25,5 +24,4 @@
   src: url('/fonts/Manjari/Bold.ttf');
   font-weight: bold;
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
-  font-language-override: 'MAL';
 }
