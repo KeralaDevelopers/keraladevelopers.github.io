@@ -18,7 +18,7 @@
             :alt="users[doc.author].name"
           />
           <span class="font-medium">{{ users[doc.author].name }}</span>
-          <span>&hybull;</span>
+          <span>&mdash;</span>
           <span>{{ doc.readingTime.text }}</span>
         </div>
         <ContentRenderer :value="doc" />
