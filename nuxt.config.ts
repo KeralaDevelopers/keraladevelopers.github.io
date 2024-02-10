@@ -18,4 +18,9 @@ export default defineNuxtConfig({
       remarkPlugins: ['remark-reading-time'],
     },
   },
+  routeRules: {
+    '/telegram': {
+      redirect: 'https://t.me/keraladevelopers',
+    },
+  },
 });
