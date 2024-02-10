@@ -3,7 +3,7 @@
     <div class="max-w-4xl">
       <div class="mb-4 text-5xl font-bold text-slate-800 dark:text-slate-200">
         <span class="text-brand-700 dark:text-brand-200">Kerala</span>
-        <span class="text-brand-500"> &hearts; </span>
+        <span class="text-brand-500"> 🤝 </span>
         <span class="text-brand-700 dark:text-brand-200">Devs</span>
       </div>
       <div class="mb-4 text-xl font-medium text-slate-700 dark:text-slate-300">
