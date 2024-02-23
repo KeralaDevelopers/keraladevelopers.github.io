@@ -9,8 +9,8 @@
 }
 
 @font-face {
-  font-family: 'InterTight';
-  src: url('/fonts/InterTight.ttf');
+  font-family: 'Geist';
+  src: url('/fonts/Geist.woff2') format('woff2');
 }
 
 @font-face {
