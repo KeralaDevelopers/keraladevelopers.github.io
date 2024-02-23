@@ -21,7 +21,7 @@ export default {
     },
     fontFamily: {
       mono: ['JetBrainsMono', 'monospace'],
-      sans: ['InterTight', 'Manjari', 'sans-serif'],
+      sans: ['Geist', 'Manjari', 'sans-serif'],
       serif: ['Domine', 'serif'],
     },
   },
